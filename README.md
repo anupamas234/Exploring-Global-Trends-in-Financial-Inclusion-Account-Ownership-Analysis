@@ -53,7 +53,7 @@ Trend Analysis
 
 -Incorporate machine learning models to predict financial inclusion trends.
 
-Integrate more financial indicators for a holistic analysis.
+-Integrate more financial indicators for a holistic analysis.
 
 
 
