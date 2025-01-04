@@ -9,6 +9,16 @@ Provide visualizations for stakeholders to interpret key findings effectively.
 Source: World Bank Financial Inclusion Data
 Years Covered: 1960-2023
 Focus Indicator: Account ownership at a financial institution or with a mobile-money-service provider.
+
+## Key Notebook
+The project’s core analysis is performed in the financial_inclusion_Dec27.ipynb notebook.
+
+Importance:
+Data Preprocessing: Handles missing values, outliers, and reshapes the data for analysis.
+Exploratory Data Analysis (EDA): Includes visualizations like histograms, boxplots, and heatmaps to reveal data patterns and trends.
+Trend Analysis: Tracks financial inclusion progress globally over time.
+Actionable Insights: Highlights regions and countries making progress or facing challenges in financial inclusion.
+
 ## Features and Columns
 Country Name: The country or region analyzed.
 
