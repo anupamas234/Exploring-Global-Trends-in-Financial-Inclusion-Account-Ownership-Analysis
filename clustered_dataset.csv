@@ -1,0 +1,4 @@
+Country Name,Region,Income Level,1960,1961,Account Ownership,Region Avg Account Ownership,Income Avg Account Ownership,Cluster ID
+China,Asia,Upper Middle Income,1,1,1,0.6666666666666666,1.0,1
+India,Asia,Lower Middle Income,0,1,0,0.6666666666666666,0.0,0
+Nepal,Asia,Low Income,0,0,1,0.6666666666666666,1.0,0
